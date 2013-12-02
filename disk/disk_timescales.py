@@ -13,7 +13,7 @@ Requires:
 """
 
 from disk import *
-from disk_const import *
+from disky_const import *
 import numpy as np
 
 # ------------------------------------------------------------------------------
