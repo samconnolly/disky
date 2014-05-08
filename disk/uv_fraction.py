@@ -7,7 +7,7 @@ uvfraction.py
 
 Calculates the fractional contribution of each radius to the total UV,
 and gives the radius within which a given fraction of the UV is emitted
-(of the range of radii given) - default UV range of 10-400 nm
+(of the range of radii given) - default UV range of 10-400 nm.
 
 Also requires:
     disk, disky_const
